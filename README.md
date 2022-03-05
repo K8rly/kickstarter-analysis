@@ -13,13 +13,13 @@ Both sets of outcomes for this analysis utilized pivot charts to summarize categ
 	
 This analysis was performed by reviewing outcomes based on Launch Date according to month in order to show Louise when her play would be most likely to succeed. A line chart clearly shows a peak in success rate in the summer and a dip in success rate in December, providing a clear visual for Louise.
 	
-![theater_outcomes_vs_launch](https://user-images.githubusercontent.com/96895557/156889371-738e2650-4f8c-4952-bb07-bf423d858f93.png)
+![theater_outcomes_vs_launch](Resources/theater_outcomes_vs_launch.png)
 
 ### Analysis of Outcomes Based on Goals
 	
 This analysis was performed by reviewing outcomes based on funding Goals in order to show Louise how much funding she would need for her play to be successful. With a line graph showing funding goal on the x axis, it’s clear that the lowest goal range yielded the most successful plays while the highest goal rate yielded the least successful plays.
 	
-![outcomes_vs_goals](https://user-images.githubusercontent.com/96895557/156889376-51391daa-2a22-4a07-b3fd-5c73735c966d.png)
+![outcomes_vs_goals](Resources/outcomes_vs_goals.png)
 
 ### Challenges and Difficulties Encountered
 	
