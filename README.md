@@ -43,4 +43,4 @@ One limitation would be that the results by launch date did not include percenta
 	
 While a line chart was created for the data being reviewed, a bar chart would also showcase a similar view of trends, depending on Louise’s preference. A custom combo chart may be useful in showing data points as well as trends within the same picture. Specifically a clustered column chart paints a nice picture of relational data for this analysis. 
 	
-![outcome_vs_goals_cluster](https://user-images.githubusercontent.com/96895557/156889384-338c7094-50c6-47e3-98b0-df36f8d26241.png)
+![outcome_vs_goals_cluster](Resources/outcome_vs_goals_cluster.png)
